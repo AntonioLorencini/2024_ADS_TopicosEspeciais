@@ -2,5 +2,6 @@
 <?php
 
 echo "Olá mundo";
+echo "FIM";
 
 ?>
