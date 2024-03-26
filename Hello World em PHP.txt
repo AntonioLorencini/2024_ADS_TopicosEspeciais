@@ -4,4 +4,6 @@
 echo "Olá mundo";
 echo "FIM";
 
+echo "Alterado o arquivo";
+
 ?>
